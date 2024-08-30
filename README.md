@@ -46,7 +46,7 @@ To run the 4 Factor Finance Management App locally, follow these steps:
 - **HTML**: For structuring the web content.
 - **Tailwind CSS**: For styling and responsive design, providing a modern, interactive user interface.
 - **Firestore**: For backend database and authentication, storing user data and managing user authentication securely.
-- 
+  
 ## Contact Information
 
 For any inquiries or feedback, please contact me(Nishit Patel.) at nishpatel1142@gmail.com.
