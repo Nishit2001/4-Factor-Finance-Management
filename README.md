@@ -17,7 +17,7 @@ To run the 4 Factor Finance Management App locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Nishit2001/4-factor-finance-management-app
+   git clone https://github.com/Nishit2001/4-Factor-Finance-Management
 2. **Navigate to the Project Directory**:
    ```bash
    cd 4-factor-finance-management-app
